@@ -15,9 +15,9 @@ Watch ny *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * recursive functions
 * [Breakout Game](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/breakout_game/breakout.py)
   * animation & game designing
-*[Boggle Game](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/boggle_game/boggle.py)
+* [Boggle Game](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/boggle_game/boggle.py)
   * recursive functions
 * [Name Searching System](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/name_searching_system/babygraphics.py)
-  *data structure
+  * data structure
 * [My Photoshop](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/my_photoshop/stanCodoshop.py)
   * image processing
