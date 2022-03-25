@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode course.
 
-Watch ny *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 # Project Source Codes:
 * [Hangman Game](https://github.com/lindcrj/stanCode_projects/blob/efad7853c7a513f29154480b05a80bc9c53700a8/stanCode_projects/hang_man/hangman.py)
